@@ -2,8 +2,9 @@
 
 // change path to dark.less in App.less to switch to dark theme
 
+//import './tokens/less/dark.less';
 import './App.less';
-const containerColor = "#fff"; //set to #141414 if theme is dark
+const containerColor = "#ffffff"; //set to #141414 if theme is dark
 
 import {
   LaptopOutlined,
